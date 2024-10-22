@@ -1,4 +1,5 @@
 # admin-dashboard
+[Live Preview](https://mirohhh.github.io/admin-dashboard/)
 
 Admin dashboard page made with pure html & css.
 The design is from [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard).
